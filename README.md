@@ -1,4 +1,4 @@
-# DEPLOY HELM CHARTS LIKE JENKINS AND EKS USING TERRAFORM :space_invader:
+# DEPLOY HELM CHARTS LIKE AWX AND EKS USING TERRAFORM :space_invader:
 
 In this repo we are using Terraforms Helm Provider on top of the kubernetes provider to quickly deploy EKS clusters with our apps on top
 of them. In this, I'm deploying AWX on EKS. 

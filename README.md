@@ -13,7 +13,7 @@ of them. In this, I'm deploying AWX on EKS.
 ### Deployment Instructions
 * Install Terraform
 * Clone this repository
-* Edit ```the jenkins-values.yaml``` to match your own values
+* Edit ```the awx-values.yaml``` to match your own values
 * Run a ```terraform init``` to grab providers and modules
 * Run ```aws_configure``` and to establish the credentials for aws
 * Run a ```terraform_apply``` and wait 10 - 15 minutes. 
